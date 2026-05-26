@@ -88,7 +88,7 @@ Python · scikit-learn · NLTK · TextBlob · Pandas · NumPy · Matplotlib · S
 ## Files
 
 - `thesis.pdf` — full writeup with methodology, literature review, and results
-- `code/` — Python source from the appendix of the thesis
+- `code.ipynb` — Python source from the appendix of the thesis
 - `README.md` — this file
 
 ## Citation
